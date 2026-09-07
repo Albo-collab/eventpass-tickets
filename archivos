@@ -1,0 +1,6 @@
+src/main/java/com/eventpass/tickets/TicketsApplication.java
+src/main/java/com/eventpass/tickets/controller/TicketController.java
+src/main/java/com/eventpass/tickets/service/TicketService.java
+src/main/java/com/eventpass/tickets/model/Ticket.java
+src/main/resources/application.properties
+pom.xml
